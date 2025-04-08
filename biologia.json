@@ -4,7 +4,7 @@
             "questions": [
                 {
                     "question": "De la glucosa se puede decir todo lo siguiente, excepto:",
-                    "imageURL": "",
+                    "imageURL": "https://drive.google.com/thumbnail?id=12SlZQXdLXnACvPiafaqHv3Wij8ROe7ku",
                     "options": [
                         "Es el monosacárido más abundante",
                         "Se utiliza también para la síntesis de aminoácidos y ácidos grasos",
@@ -14,7 +14,7 @@
                     ],
                     "answer": "e",
                     "explicacion": "Holi",
-                    "imageURLans": ""
+                    "imageURLans": "https://drive.google.com/thumbnail?id=12SlZQXdLXnACvPiafaqHv3Wij8ROe7ku"
                 },
                 {
                     "question": "De los heteropolisacáridos, qué tienen en común el condroitín sulfato, heparán sulfato, queratán sulfato:",
