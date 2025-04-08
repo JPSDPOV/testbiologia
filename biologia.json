@@ -3,17 +3,16 @@
         "Carbohidratos": {
             "questions": [
                 {
-                    "question": "Un hombre camina \\(3\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el oeste, luego 3 m hacia el sur, a continuación 5 m hacia el este y finalmente \\(2\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el este, el desplazamiento resultante del hombre, es en m:",
-                    "year": "2003",
+                    "question": "De la glucosa se puede decir todo lo siguiente, excepto:",
                     "imageURL": "",
                     "options": [
-                        "\\(2\\sqrt{5} \\)",
-                        "\\(2\\sqrt{2} \\)",
-                        "\\(5\\sqrt{2} \\)",
-                        "\\(4\\sqrt{2} \\)",
-                        "\\(5\\sqrt{5} \\)"
+                        "Es el monosacárido más abundante",
+                        "Se utiliza también para la síntesis de aminoácidos y ácidos grasos",
+                        "Es isómero estructural con la fructosa",
+                        "Son enantiómeros con la galactosa",
+                        "Se diferencia de la galactosa por la posición del hidroxilo en el C<sub>2</sub>"
                     ],
-                    "answer": "a"
+                    "answer": "e"
                 },
                 {
                     "question": "Tres fuerzas de igual intensidad forman un sistema con resultante nula. El ángulo formado entre ellas, es:",
