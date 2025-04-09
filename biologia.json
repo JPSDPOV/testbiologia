@@ -4,7 +4,7 @@
             "questions": [
                 {
                     "question": "De la glucosa se puede decir todo lo siguiente, excepto:",
-                    "imageURL": "https://drive.google.com/uc?id=12SlZQXdLXnACvPiafaqHv3Wij8ROe7ku",
+                    "imageURL": "",
                     "options": [
                         "Es el monosacárido más abundante",
                         "Se utiliza también para la síntesis de aminoácidos y ácidos grasos",
@@ -13,20 +13,6 @@
                         "Se diferencia de la galactosa por la posición del hidroxilo en el C<sub>2</sub>"
                     ],
                     "answer": "e",
-                    "explicacion": "Holi",
-                    "imageURLans": "https://drive.google.com/thumbnail?id=12SlZQXdLXnACvPiafaqHv3Wij8ROe7ku"
-                },
-                {
-                    "question": "De los heteropolisacáridos, qué tienen en común el condroitín sulfato, heparán sulfato, queratán sulfato:",
-                    "imageURL": "",
-                    "options": [
-                        "Son todos polímeros de glucosa",
-                        "Son todos solubles en agua",
-                        "Están todos sulfatados",
-                        "Presentan anillos condensados",
-                        "Todas son correctas"
-                    ],
-                    "answer": "c",
                     "explicacion": "",
                     "imageURLans": ""
                 },
@@ -43,6 +29,34 @@
                     "answer": "b",
                     "explicacion": "",
                     "imageURLans": ""
+                },
+                {
+                    "question": "De los heteropolisacáridos, qué tienen en común el condroitín sulfato, heparán sulfato, queratán sulfato:",
+                    "imageURL": "",
+                    "options": [
+                        "Son todos polímeros de glucosa",
+                        "Son todos solubles en agua",
+                        "Están todos sulfatados",
+                        "Presentan anillos condensados",
+                        "Todas son correctas"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Respecto a la quitina, qué molécula otorga a la misma una condición de mayor rigidez y resistencia para exoesqueletos endurecidos:",
+                    "imageURL": "",
+                    "options": [
+                        "Ciclamato de Ca++",
+                        "Carbonato de carbono",
+                        "Carbonato de calcio",
+                        "Carbonato de carbamato",
+                        "Carbamato de carbono"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": "https://drive.google.com/thumbnail?id=1O4xBrC9QZP-9xTltZqtQBFrlEPT1Zd3B"
                 }
                 
             ]
