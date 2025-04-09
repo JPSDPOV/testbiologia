@@ -32,6 +32,28 @@
                     "imageURLans": "https://drive.google.com/file/d/1Tvn5LcRH0mQigRlg7Elp4FKjHdbij2tz/view?usp=drive_link"
                 },
                 {
+                    "question": "Es un isómero de la glucosa no disponible en forma libre (monomérica) encontrándose solo en forma dimérica, muy susceptible a la fermentación:",
+                    "imageURL": "",
+                    "options": ["Galactosa", "Glucosa", "Fructosa", "Maltosa"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El enlace α 1,4 estará presente en todas las moléculas citadas, excepto:",
+                    "imageURL": "",
+                    "options": [
+                        "Celulosa",
+                        "Almidon",
+                        "Glucógeno",
+                        "Maltosa",
+                        "Hay más de una respuesta correcta"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": "https://drive.google.com/file/d/1QfaZidMyyusBinXDrr_waUnX9JtLZOiJ/view?usp=drive_link"
+                },
+                {
                     "question": "El enlace β 1,4-glucosídico que une dos glucosas entre sí, estará presente en:",
                     "imageURL": "",
                     "options": [
@@ -60,6 +82,21 @@
                     "imageURLans": "1Bk7Pn1Bxp48ml-8QQbpDe7FIAxl4j6XT"
                 },
                 {
+                    "question": "Se degrada un polímero orgánico en el laboratorio y se analiza a sus componentes, se logra reconocer a uno de los monómeros como N-acetilglucosamina. Sin embargo, se identifica a otro monómero en su constitución, cuya caracterización no se ha terminado aún. Con estas características, usted podría inferir que el compuesto podría ser:",
+                    "imageURL": "",
+                    "options": [
+                        "Almidón",
+                        "Quitina",
+                        "Esteroide",
+                        "Glicosaminoglicano",
+                        "Glicolípido"
+
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
                     "question": "De los heteropolisacáridos, qué tienen en común el condroitín sulfato, heparán sulfato, queratán sulfato:",
                     "imageURL": "",
                     "options": [
@@ -72,6 +109,21 @@
                     "answer": "c",
                     "explicacion": "En tejidos, estos GAGs no existen libres, sino unidos covalentemente a proteínas (proteoglicanos), formando redes insolubles en matriz extracelular.",
                     "imageURLans": "https://drive.google.com/file/d/1VyqY1XFIfnUX9W3I_hyFFvuzzlpz5wFu/view?usp=drive_link"
+                },
+                {
+                    "question": "Una de las moléculas citadas es un polisacárido componente de la matriz extracelular, indique cual:",
+                    "imageURL": "",
+                    "options": [
+                        "Gangliosidos",
+                        "Hemoglobina",
+                        "Glicosaminoglicanos",
+                        "Porina",
+                        "Colágeno"
+
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
                 },
                 {
                     "question": "Por la técnica de coloración de PAS se identifica un heteropolisacárido propio de la matriz extracelular; usted puede suponer que el mismo correspondería a:",
