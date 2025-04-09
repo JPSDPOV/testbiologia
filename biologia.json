@@ -3,6 +3,14 @@
         "Carbohidratos": {
             "questions": [
                 {
+                    "question": "Corresponden a funciones de los carbohidratos citados a continuación con excepción de:",
+                    "imageURL": "",
+                    "options": ["Almacén de energía en animales y vegetales", "Forman estructuras celulares", "Combustible metabólico", "Componentes básicos de los nucleótidos de los ácidos nucleicos", "Forman el citoesqueleto celular"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
                     "question": "Contienen un grupo aldehído:",
                     "imageURL": "",
                     "options": [
@@ -14,6 +22,14 @@
 
                     ],
                     "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Marque la aseveración correcta respecto al grupo carbonilo (C=O) en los azúcares:",
+                    "imageURL": "",
+                    "options": ["Si el grupo carbonilo está localizado en un carbono terminal se trata de una “aldosa”.", "Si el grupo carbonilo está localizado en un carbono secundario el azúcar es una “cetosa”.", "La fructosa es un ejemplo de la cetosa.", "A y B son correctas.", "Todas son correctas."],
+                    "answer": "e",
                     "explicacion": "",
                     "imageURLans": ""
                 },
@@ -36,6 +52,30 @@
                     "imageURL": "",
                     "options": ["Galactosa", "Glucosa", "Fructosa", "Maltosa"],
                     "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "De los compuestos citados abajo, cuál es un polisacárido:",
+                    "imageURL": "",
+                    "options": ["Almidón", "Metionina", "Lactosa", "Maltosa", "Glucosa"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La obtención de maltosa a partir de almidón corresponde a un ejemplo de:",
+                    "imageURL": "",
+                    "options": ["anabolismo", "respuesta a estímulos", "homeostasis", "catabolismo", "ninguna de las anteriores"],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los hepatocitos obtienen glucosa a partir de la hidrólisis de ……………… y el proceso se conoce como ………………:",
+                    "imageURL": "",
+                    "options": ["Celulosa - Anabolismo", "Maltosa - Anabolismo", "Glucógeno - Catabolismo", "Almidón - Metabolismo", "Lactosa - Metabolismo"],
+                    "answer": "c",
                     "explicacion": "",
                     "imageURLans": ""
                 },
@@ -68,6 +108,46 @@
                     "imageURLans": "https://drive.google.com/file/d/1QfaZidMyyusBinXDrr_waUnX9JtLZOiJ/view?usp=drive_link"
                 },
                 {
+                    "question": "El enlace α 1,2-glucosídico  estará presente en:",
+                    "imageURL": "",
+                    "options": ["Sacarosa", "Maltosa", "Celulosa", "Lactosa", "Fructosa"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "De acuerdo a los diferentes tipos de polímeros estudiados dentro de los hidratos de carbono, los carbonos intervinientes para la ramificación:",
+                    "imageURL": "",
+                    "options": ["C1-C4", "C1-C2", "C1-C3", "C1-C6", "Ninguna es correcta"],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se observa la estructura molecular de un homopolisacárido y se evidencia la ausencia de enlaces 1-6 entre sus monómeros, el mismo podría corresponder a:",
+                    "imageURL": "",
+                    "options": ["Cerebrósido", "Glucógeno", "Celulosa", "Globósido", "Piruvato"],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Al hidrolizar una molécula rompiendo el enlace α 1,4-glucosídico se obtienen solamente moléculas de glucosa como producto. Dicha molécula correspondería a:",
+                    "imageURL": "",
+                    "options": ["Maltosa", "Celulosa", "Sacarosa", "Lactosa", "Dos son correctas"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La galactosemia es una enfermedad hereditaria que se caracteriza por la incapacidad de metabolizar la galactosa, por lo cual ésta tiende a acumularse dentro del organismo, generando daño a nivel del hígado y sistema nervioso. Dicha galactosa puede ser obtenida a partir de la descomposición del disacárido:",
+                    "imageURL": "",
+                    "options": ["Lactosa", "Manosa", "Fructosa", "Gangliósidos", "Maltosa"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
                     "question": "Respecto a la quitina, qué molécula otorga a la misma una condición de mayor rigidez y resistencia para exoesqueletos endurecidos:",
                     "imageURL": "",
                     "options": [
@@ -82,6 +162,14 @@
                     "imageURLans": "1Bk7Pn1Bxp48ml-8QQbpDe7FIAxl4j6XT"
                 },
                 {
+                    "question": "N-acetilglucosamina es un monosacárido presente en:",
+                    "imageURL": "",
+                    "options": ["Pared celular bacteriana gram positiva", "Oligosacáridos de la glicoproteína", "Glucocálix", "B y C son correctas", "Todas son correctas"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
                     "question": "Se degrada un polímero orgánico en el laboratorio y se analiza a sus componentes, se logra reconocer a uno de los monómeros como N-acetilglucosamina. Sin embargo, se identifica a otro monómero en su constitución, cuya caracterización no se ha terminado aún. Con estas características, usted podría inferir que el compuesto podría ser:",
                     "imageURL": "",
                     "options": [
@@ -93,6 +181,14 @@
 
                     ],
                     "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los GAGs se caracterizan por:",
+                    "imageURL": "",
+                    "options": ["Estar presentes en la matriz extracelular, pueden ser sulfatados y no sulfatados.", "Presentar una carga neta positiva", "Ser hidrofóbicos", "Ser moléculas pequeñas hidrosolubles en el citosol", "Corresponder a un tipo de homopolisacárido"],
+                    "answer": "a",
                     "explicacion": "",
                     "imageURLans": ""
                 },
