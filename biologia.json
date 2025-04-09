@@ -3,6 +3,21 @@
         "Carbohidratos": {
             "questions": [
                 {
+                    "question": "Contienen un grupo aldehído:",
+                    "imageURL": "",
+                    "options": [
+                        "Todos los carbohidratos",
+                        "Glucosa",
+                        "Fructosa",
+                        "Dihidroxicetona",
+                        "Hay más de una respuesta correcta"
+
+                    ],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
                     "question": "De la glucosa se puede decir todo lo siguiente, excepto:",
                     "imageURL": "",
                     "options": [
