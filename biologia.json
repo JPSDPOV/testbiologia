@@ -31,6 +31,20 @@
                     "imageURLans": "https://drive.google.com/file/d/1QfaZidMyyusBinXDrr_waUnX9JtLZOiJ/view?usp=drive_link"
                 },
                 {
+                    "question": "Respecto a la quitina, qué molécula otorga a la misma una condición de mayor rigidez y resistencia para exoesqueletos endurecidos:",
+                    "imageURL": "",
+                    "options": [
+                        "Ciclamato de Ca++",
+                        "Carbonato de carbono",
+                        "Carbonato de calcio",
+                        "Carbonato de carbamato",
+                        "Carbamato de carbono"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": "1Bk7Pn1Bxp48ml-8QQbpDe7FIAxl4j6XT"
+                },
+                {
                     "question": "De los heteropolisacáridos, qué tienen en común el condroitín sulfato, heparán sulfato, queratán sulfato:",
                     "imageURL": "",
                     "options": [
@@ -45,18 +59,29 @@
                     "imageURLans": "https://drive.google.com/file/d/1VyqY1XFIfnUX9W3I_hyFFvuzzlpz5wFu/view?usp=drive_link"
                 },
                 {
-                    "question": "Respecto a la quitina, qué molécula otorga a la misma una condición de mayor rigidez y resistencia para exoesqueletos endurecidos:",
+                    "question": "Por la técnica de coloración de PAS se identifica un heteropolisacárido propio de la matriz extracelular; usted puede suponer que el mismo correspondería a:",
                     "imageURL": "",
                     "options": [
-                        "Ciclamato de Ca++",
-                        "Carbonato de carbono",
-                        "Carbonato de calcio",
-                        "Carbonato de carbamato",
-                        "Carbamato de carbono"
+                        "Glucógeno",
+                        "Glucosaminoglicanos",
+                        "Celulosa",
+                        "Xilosa",
+                        "Amilopectina"
                     ],
-                    "answer": "c",
+                    "answer": "b",
+                    "explicacion": "En tejidos, los glucosaminoglicanos están unidos covalentemente a proteínas (proteoglicanos), formando redes insolubles en matriz extracelular.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Respecto a los enlaces glucosídicos, los mismos pueden enlazar tanto a glúcidos como a otras moléculas de naturaleza no glucídica como la base nitrogenada y la pentosa en nucleótidos.",
+                    "imageURL": "",
+                    "options": [
+                        "Falso",
+                        "Verdadero"
+                    ],
+                    "answer": "b",
                     "explicacion": "",
-                    "imageURLans": "1Bk7Pn1Bxp48ml-8QQbpDe7FIAxl4j6XT"
+                    "imageURLans": ""
                 }
                 
             ]
