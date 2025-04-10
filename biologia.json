@@ -5,7 +5,13 @@
                 {
                     "question": "Corresponden a funciones de los carbohidratos citados a continuación con excepción de:",
                     "imageURL": "",
-                    "options": ["Almacén de energía en animales y vegetales", "Forman estructuras celulares", "Combustible metabólico", "Componentes básicos de los nucleótidos de los ácidos nucleicos", "Forman el citoesqueleto celular"],
+                    "options": [
+                        "Almacén de energía en animales y vegetales",
+                        "Forman estructuras celulares",
+                        "Combustible metabólico",
+                        "Componentes básicos de los nucleótidos de los ácidos nucleicos",
+                        "Forman el citoesqueleto celular"
+                    ],
                     "answer": "e",
                     "explicacion": "",
                     "imageURLans": ""
@@ -19,7 +25,6 @@
                         "Fructosa",
                         "Dihidroxicetona",
                         "Hay más de una respuesta correcta"
-
                     ],
                     "answer": "b",
                     "explicacion": "",
@@ -28,7 +33,13 @@
                 {
                     "question": "Marque la aseveración correcta respecto al grupo carbonilo (C=O) en los azúcares:",
                     "imageURL": "",
-                    "options": ["Si el grupo carbonilo está localizado en un carbono terminal se trata de una “aldosa”.", "Si el grupo carbonilo está localizado en un carbono secundario el azúcar es una “cetosa”.", "La fructosa es un ejemplo de la cetosa.", "A y B son correctas.", "Todas son correctas."],
+                    "options": [
+                        "Si el grupo carbonilo está localizado en un carbono terminal se trata de una “aldosa”.",
+                        "Si el grupo carbonilo está localizado en un carbono secundario el azúcar es una “cetosa”.",
+                        "La fructosa es un ejemplo de la cetosa.",
+                        "A y B son correctas.",
+                        "Todas son correctas."
+                    ],
                     "answer": "e",
                     "explicacion": "",
                     "imageURLans": ""
@@ -50,7 +61,12 @@
                 {
                     "question": "Es un isómero de la glucosa no disponible en forma libre (monomérica) encontrándose solo en forma dimérica, muy susceptible a la fermentación:",
                     "imageURL": "",
-                    "options": ["Galactosa", "Glucosa", "Fructosa", "Maltosa"],
+                    "options": [
+                        "Galactosa",
+                        "Glucosa",
+                        "Fructosa",
+                        "Maltosa"
+                    ],
                     "answer": "a",
                     "explicacion": "",
                     "imageURLans": ""
@@ -58,7 +74,13 @@
                 {
                     "question": "De los compuestos citados abajo, cuál es un polisacárido:",
                     "imageURL": "",
-                    "options": ["Almidón", "Metionina", "Lactosa", "Maltosa", "Glucosa"],
+                    "options": [
+                        "Almidón",
+                        "Metionina",
+                        "Lactosa",
+                        "Maltosa",
+                        "Glucosa"
+                    ],
                     "answer": "a",
                     "explicacion": "",
                     "imageURLans": ""
@@ -66,7 +88,13 @@
                 {
                     "question": "La obtención de maltosa a partir de almidón corresponde a un ejemplo de:",
                     "imageURL": "",
-                    "options": ["anabolismo", "respuesta a estímulos", "homeostasis", "catabolismo", "ninguna de las anteriores"],
+                    "options": [
+                        "anabolismo",
+                        "respuesta a estímulos",
+                        "homeostasis",
+                        "catabolismo",
+                        "ninguna de las anteriores"
+                    ],
                     "answer": "d",
                     "explicacion": "",
                     "imageURLans": ""
@@ -74,7 +102,13 @@
                 {
                     "question": "Los hepatocitos obtienen glucosa a partir de la hidrólisis de ……………… y el proceso se conoce como ………………:",
                     "imageURL": "",
-                    "options": ["Celulosa - Anabolismo", "Maltosa - Anabolismo", "Glucógeno - Catabolismo", "Almidón - Metabolismo", "Lactosa - Metabolismo"],
+                    "options": [
+                        "Celulosa - Anabolismo",
+                        "Maltosa - Anabolismo",
+                        "Glucógeno - Catabolismo",
+                        "Almidón - Metabolismo",
+                        "Lactosa - Metabolismo"
+                    ],
                     "answer": "c",
                     "explicacion": "",
                     "imageURLans": ""
@@ -110,7 +144,13 @@
                 {
                     "question": "El enlace α 1,2-glucosídico  estará presente en:",
                     "imageURL": "",
-                    "options": ["Sacarosa", "Maltosa", "Celulosa", "Lactosa", "Fructosa"],
+                    "options": [
+                        "Sacarosa",
+                        "Maltosa",
+                        "Celulosa",
+                        "Lactosa",
+                        "Fructosa"
+                    ],
                     "answer": "a",
                     "explicacion": "",
                     "imageURLans": ""
@@ -118,7 +158,13 @@
                 {
                     "question": "De acuerdo a los diferentes tipos de polímeros estudiados dentro de los hidratos de carbono, los carbonos intervinientes para la ramificación:",
                     "imageURL": "",
-                    "options": ["C1-C4", "C1-C2", "C1-C3", "C1-C6", "Ninguna es correcta"],
+                    "options": [
+                        "C1-C4",
+                        "C1-C2",
+                        "C1-C3",
+                        "C1-C6",
+                        "Ninguna es correcta"
+                    ],
                     "answer": "d",
                     "explicacion": "",
                     "imageURLans": ""
@@ -126,7 +172,13 @@
                 {
                     "question": "Se observa la estructura molecular de un homopolisacárido y se evidencia la ausencia de enlaces 1-6 entre sus monómeros, el mismo podría corresponder a:",
                     "imageURL": "",
-                    "options": ["Cerebrósido", "Glucógeno", "Celulosa", "Globósido", "Piruvato"],
+                    "options": [
+                        "Cerebrósido",
+                        "Glucógeno",
+                        "Celulosa",
+                        "Globósido",
+                        "Piruvato"
+                    ],
                     "answer": "c",
                     "explicacion": "",
                     "imageURLans": ""
@@ -134,7 +186,13 @@
                 {
                     "question": "Al hidrolizar una molécula rompiendo el enlace α 1,4-glucosídico se obtienen solamente moléculas de glucosa como producto. Dicha molécula correspondería a:",
                     "imageURL": "",
-                    "options": ["Maltosa", "Celulosa", "Sacarosa", "Lactosa", "Dos son correctas"],
+                    "options": [
+                        "Maltosa",
+                        "Celulosa",
+                        "Sacarosa",
+                        "Lactosa",
+                        "Dos son correctas"
+                    ],
                     "answer": "a",
                     "explicacion": "",
                     "imageURLans": ""
@@ -142,7 +200,13 @@
                 {
                     "question": "La galactosemia es una enfermedad hereditaria que se caracteriza por la incapacidad de metabolizar la galactosa, por lo cual ésta tiende a acumularse dentro del organismo, generando daño a nivel del hígado y sistema nervioso. Dicha galactosa puede ser obtenida a partir de la descomposición del disacárido:",
                     "imageURL": "",
-                    "options": ["Lactosa", "Manosa", "Fructosa", "Gangliósidos", "Maltosa"],
+                    "options": [
+                        "Lactosa",
+                        "Manosa",
+                        "Fructosa",
+                        "Gangliósidos",
+                        "Maltosa"
+                    ],
                     "answer": "a",
                     "explicacion": "",
                     "imageURLans": ""
@@ -164,7 +228,13 @@
                 {
                     "question": "N-acetilglucosamina es un monosacárido presente en:",
                     "imageURL": "",
-                    "options": ["Pared celular bacteriana gram positiva", "Oligosacáridos de la glicoproteína", "Glucocálix", "B y C son correctas", "Todas son correctas"],
+                    "options": [
+                        "Pared celular bacteriana gram positiva",
+                        "Oligosacáridos de la glicoproteína",
+                        "Glucocálix",
+                        "B y C son correctas",
+                        "Todas son correctas"
+                    ],
                     "answer": "e",
                     "explicacion": "",
                     "imageURLans": ""
@@ -178,7 +248,6 @@
                         "Esteroide",
                         "Glicosaminoglicano",
                         "Glicolípido"
-
                     ],
                     "answer": "d",
                     "explicacion": "",
@@ -187,7 +256,13 @@
                 {
                     "question": "Los GAGs se caracterizan por:",
                     "imageURL": "",
-                    "options": ["Estar presentes en la matriz extracelular, pueden ser sulfatados y no sulfatados.", "Presentar una carga neta positiva", "Ser hidrofóbicos", "Ser moléculas pequeñas hidrosolubles en el citosol", "Corresponder a un tipo de homopolisacárido"],
+                    "options": [
+                        "Estar presentes en la matriz extracelular, pueden ser sulfatados y no sulfatados.",
+                        "Presentar una carga neta positiva",
+                        "Ser hidrofóbicos",
+                        "Ser moléculas pequeñas hidrosolubles en el citosol",
+                        "Corresponder a un tipo de homopolisacárido"
+                    ],
                     "answer": "a",
                     "explicacion": "",
                     "imageURLans": ""
@@ -215,7 +290,6 @@
                         "Glicosaminoglicanos",
                         "Porina",
                         "Colágeno"
-
                     ],
                     "answer": "c",
                     "explicacion": "",
@@ -246,11 +320,248 @@
                     "explicacion": "",
                     "imageURLans": ""
                 }
-                
             ]
         },
-        "Lipidos":{
-            "questions":[
+        "Lípidos": {
+            "questions": [
+                {
+                    "question": "Almacenamiento de energía, combustible o fuente de energía celular en las células, componentes celulares y aislante térmico:",
+                    "imageURL": "",
+                    "options": [
+                        "Lípidos",
+                        "Polisacáridos",
+                        "Monosacáridos",
+                        "Proteínas",
+                        "Ácidos nucleicos"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El colesterol es una molécula polifuncional a nivel de los seres vivos, de lo citado abajo sería una función directa o indirecta del mismo:",
+                    "imageURL": "",
+                    "options": ["Obtención del retinol", "Obtención de glicolípido", "Hormona sexual masculina", "Obtención de fosfolípido", "Obtención del almidón"],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "De los lípidos citados, se lo conoce como precursor de hormona a:",
+                    "imageURL": "",
+                    "options": ["Colesterol", "Triglicérido", "Cortisol", "Pregnenolona", "Prostaglandina"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Es secretada por la vesícula biliar, su función es emulsionar las grasas, facilitar la absorción de éstas por el intestino delgado, corresponde a:",
+                    "imageURL": "",
+                    "options": ["Progesterona", "Esteroides", "Cortisol", "Sales biliares", "Beta Caroteno"],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "¿Cuál de los siguientes lípidos de membrana se observa en ambas monocapas de la misma, es anfipático y no se asocia a oligosacáridos en la monocapa externa?",
+                    "imageURL": "",
+                    "options": ["Esfingomielina", "Fosfatidiletanolamina", "Fosfatidilcolina", "Cerebrósido", "Colesterol"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "De los siguientes lípidos; ¿cuál de los mismos puede poseer en su estructura molecular ácidos grasos?",
+                    "imageURL": "",
+                    "options": ["Colesterol", "Testosterona", "Retinol", "Isoprenoides", "Ninguna es correcta"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Esteroide involucrado en el metabolismo del calcio:",
+                    "imageURL": "",
+                    "options": ["Vitamina A", "Vitamina B12", "Vitamina C", "Vitamina D", "Cardiolipina"],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Son insolubles en agua, tienen consistencia oleaginosa, presente en plantas, a qué lípido corresponde:",
+                    "imageURL": "",
+                    "options": ["Colesterol", "Triglicérido", "Beta caroteno", "Retinol", "Ninguna de las anteriores"],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Es un compuesto orgánico hidrofóbico de naturaleza líquida a temperatura de ambiente:",
+                    "imageURL": "",
+                    "options": ["Ácido valérico", "Ácido isovalérico", "Ácido graso cis", "Ácido palmítico", "Ceras"],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los triglicéridos, son lípidos cuya función se conoce como:",
+                    "imageURL": "",
+                    "options": ["Almacenamiento energético", "Estructural", "Enzimática", "Proteica", "De señalización"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "De los lípidos citados, ¿Cuál se encuentra en los adipocitos?",
+                    "imageURL": "",
+                    "options": ["Colesterol", "Beta caroteno", "Glicerol", "Triglicérido", "Ninguna de las anteriores"],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Son lípidos que pueden encontrarse en la membrana celular de las células eucariotas todos, excepto: ",
+                    "imageURL": "",
+                    "options": ["Colesterol", "Triglicéridos", "Esfingomielina", "Glucolípidos", "Fosfatidilcolina"],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El glicerol corresponde a una molécula:",
+                    "imageURL": "",
+                    "options": ["Polar e hidrofílica", "Apolar e hidrofílica", "Polar e hidrofóbica", "Apolar e hidrofóbica", "Anfipática"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El enlace que se establece entre el glicerol y dos ácidos grasos en un fosfolípido se denomina:",
+                    "imageURL": "",
+                    "options": ["Glicosaminoglicano", "Fosfodiéster", "Éter", "Carboxílico", "Éster"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los fosfolípidos son compuestos formados por el agregado de varias moléculas, el ácido fosfatídico como molécula básica de los fosfolípidos se compone de: ",
+                    "imageURL": "",
+                    "options": ["Ácido graso, esfingol y fosfato", "Ácido graso, glicerol y fosfato", "Ácido graso y fosfato", "Ácido graso y glicerol", "Ácido graso, esfingol y glicerol"],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Ácido fosfatídico está compuesto por:",
+                    "imageURL": "",
+                    "options": ["Glicerol", "Grupo fosfato", "Fosfatidil colina", "2 Ácidos grasos + glicerol + grupo fosfato", "Dos son correctas"],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La cabeza de un fosfolípido se encuentra constituida por:",
+                    "imageURL": "",
+                    "options": ["Dos alcoholes y un fosfato", "Dos ácidos grasos", "Glicerol y ácidos grasos", "Un ácido fosfatídico", "Ceramida"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Si analizamos la porción hidrofílica de la membrana podremos identificar los siguientes componentes, excepto:",
+                    "imageURL": "",
+                    "options": ["Colina", "Etanolamina", "Ácido linoleico", "Glicerol", "Serina"],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "En la parte polar de los fosfolípidos encontramos, excepto:",
+                    "imageURL": "",
+                    "options": ["Glicerol", "Grupo fosfato", "Inositol", "Serina", "Ácido linoleico"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Son fosfolípidos de membrana:",
+                    "imageURL": "",
+                    "options": ["Fosfatidil colina", "Fosfatidil serina", "Fosfatidil inositol", "Fosfatidil etanolamina", "Todas son correctas"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El fosfatidil glicerol, es un tipo de lípido de la membrana celular, este se clasifica como:",
+                    "imageURL": "",
+                    "options": ["Fosfolípido", "Esteroide", "Glicolípido", "Cerebrósido", "Carotenoides"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El difosfatidil glicerol, es un tipo de lípido de la membrana celular, este se clasifica como:",
+                    "imageURL": "",
+                    "options": ["Fosfolípido", "Esteroide", "Glicolípido", "Cerebrósido", "Carotenoides"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "¿Cuál de los siguientes lípidos se caracteriza por presentar tres moléculas de glicerol y estar presentes en mitocondrias?",
+                    "imageURL": "",
+                    "options": ["Triglicérido", "Cardiolipina", "Cerebrósido", "Estrógeno", "Ciclopentanoperhidrofenantreno"],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La cardiolipina corresponde a un lípido presente en la membrana mitocondrial interna, esencial para el desarrollo de la fosforilación oxidativa. ¿Cuántos ácidos grasos forman parte de la estructura del mismo?",
+                    "imageURL": "",
+                    "options": ["0", "1", "2", "3", "4"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "¿Cuántos ácidos grasos posee la cardiolipina?",
+                    "imageURL": "",
+                    "options": ["1", "6", "3", "2", "4"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "¿Cuál de las siguientes moléculas NO se ubica en la membrana plasmática de una célula eucariota?",
+                    "imageURL": "",
+                    "options": ["Colesterol", "Esfingomielina", "Glicerofosfolípido", "Cardiolipina", "Fosfatidilcolina"],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Qué componente básico se requiere para fabricar sintéticamente cardiolipina en un laboratorio de bioquímica aplicada:",
+                    "imageURL": "",
+                    "options": ["Fosforilcolina", "Difosfatidilglicerol", "Ceramida", "Ácido graso", "Ácido fosfatídico"],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Colina es uno de los componentes esenciales de: ",
+                    "imageURL": "",
+                    "options": ["Esfingomielina", "Estrógeno", "Cerebrósido", "Gangliósido", "Triglicéridos"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Cuál es la propiedad de los fosfolípidos que les permite formar la bicapa en la membrana celular ",
+                    "imageURL": "",
+                    "options": ["Anfótera", "Bicatenaria", "Hidrofilia", "Hidrofobia", "Anfipatía"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
                 {
                     "question": "¿Qué componentes tienen en común la lecitina y la esfingomielina?",
                     "imageURL": "",
@@ -264,9 +575,40 @@
                     "answer": "e",
                     "explicacion": "",
                     "imageURLans": ""
+                },
+                {
+                    "question": "La composición de los glucolípidos cuya porción glucídica sea un monosacárido corresponde a:",
+                    "imageURL": "",
+                    "options": ["Cerebrósido", "Gangliósido", "Globósido", "Ceramida", "Esfingosina"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La enfermedad de salla es una enfermedad genética provocada por una mutación que ocasiona la acumulación del ácido siálico en los lisosomas provocando discapacidad y retraso mental en los niños afectados, con respecto a dicho ácido siálico es correcto afirmar:",
+                    "imageURL": "",
+                    "options": ["Corresponde a una pentosa", "Es considerado un lípido simple", "Constituyente de gangliósidos", "Componente básico de la cardiolipina", "Componente inorgánico de la célula"],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "¿Qué estructura tienen en común cerebrósidos y gangliósidos?",
+                    "imageURL": "",
+                    "options": ["Grupo fosfato", "Oligosacárido", "Monosacárido", "Colina", "Ceramida"],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Podemos encontrar esfingosina en todos los siguientes compuestos mencionados, excepto:",
+                    "imageURL": "",
+                    "options": ["Fosfatidilcolina", "Esfingolípidos", "Ceramida", "Cerebrósidos", "Gangliósidos"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
                 }
             ]
         }
-        
     }
 }
