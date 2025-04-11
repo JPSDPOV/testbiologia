@@ -156,6 +156,22 @@
                     "imageURLans": ""
                 },
                 {
+                    "question": "El enlace alfa 1,4-glucosídico que une glucosas entre sí estará presente en:",
+                    "imageURL": "",
+                    "options": ["Amilosa", "Celulosa", "Sacarosa", "Lactosa", "Amilopectina"],
+                    "answer": "a, e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Identificar el polisacárido del gráfico:",
+                    "imageURL": "https://drive.google.com/file/d/1q1JESl8yTGyiyQ9-Nn1aQctGkiKkl4xT/view?usp=drive_link",
+                    "options": ["Glucógeno", "Amilosa", "Celulosa", "Maltosa", "Quitina"],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
                     "question": "De acuerdo a los diferentes tipos de polímeros estudiados dentro de los hidratos de carbono, los carbonos intervinientes para la ramificación:",
                     "imageURL": "",
                     "options": [
@@ -208,6 +224,14 @@
                         "Maltosa"
                     ],
                     "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Cual de los siguientes compuestos no contiene glucosa en su estructura:",
+                    "imageURL": "",
+                    "options": ["Maltosa", "Celulosa", "Lactosa", "Quitina", "Todas presentan glucosa en su estructura"],
+                    "answer": "d",
                     "explicacion": "",
                     "imageURLans": ""
                 },
