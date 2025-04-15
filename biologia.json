@@ -1,5 +1,23 @@
 {
     "topics": {
+        "Bacterias":{
+            "questions":[
+                {
+                    "question": "¿Cómo se denomina la región celular señalada con el número 6?",
+                    "imageURL": "https://drive.google.com/file/d/1DfcCkBPdjSulHEL4K1zlYhFbCUrcj46M/view?usp=drive_link",
+                    "options": [
+                        "Centrosoma",
+                        "Ribosoma 70S",
+                        "Núcleo",
+                        "Material genético",
+                        "N.d.a."
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
         "Carbohidratos": {
             "questions": [
                 {
@@ -55,6 +73,21 @@
                         "Se diferencia de la galactosa por la posición del hidroxilo en el C<sub>2</sub>"
                     ],
                     "answer": "d, e",
+                    "explicacion": "",
+                    "imageURLans": "https://drive.google.com/file/d/1Tvn5LcRH0mQigRlg7Elp4FKjHdbij2tz/view?usp=drive_link"
+                },
+                
+                {
+                    "question": "De la glucosa se puede decir todo lo siguiente, excepto:",
+                    "imageURL": "",
+                    "options": [
+                        "Es el monosacárido más abundante",
+                        "Se utiliza también para la síntesis de aminoácidos y ácidos grasos",
+                        "Es isómero estructural con la fructosa",
+                        "Son enantiómeros con la fructosa",
+                        "Se diferencia de la galactosa por la posición del hidroxilo en el C<sub>4</sub>"
+                    ],
+                    "answer": "d",
                     "explicacion": "",
                     "imageURLans": "https://drive.google.com/file/d/1Tvn5LcRH0mQigRlg7Elp4FKjHdbij2tz/view?usp=drive_link"
                 },
@@ -348,6 +381,20 @@
         },
         "Lípidos": {
             "questions": [
+                {
+                    "question": "¿Cuál de las siguientes alternativas no corresponde a una función de los lípidos?",
+                    "imageURL": "",
+                    "options": [
+                        "Reserva de energía",
+                        "Regular la fluidez de membrana",
+                        "Función estructural",
+                        "Adhesión celular",
+                        "Hormonal"
+                    ],
+                    "answer": "d",
+                    "explicacion": "La adhesión celular es mediada principalmente por proteínas (cadherinas, integrinas, selectinas).",
+                    "imageURLans": ""
+                },
                 {
                     "question": "Almacenamiento de energía, combustible o fuente de energía celular en las células, componentes celulares y aislante térmico:",
                     "imageURL": "",
