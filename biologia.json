@@ -759,6 +759,24 @@
                 }
             ]
         },
+        "Proteínas":{
+            "questions":[
+                {
+                    "question": "Un ejemplo de aminoácido básico es:",
+                    "imageURL": "",
+                    "options": [
+                        "ác. Aspártico",
+                        "Lisina",
+                        "Serina",
+                        "Prolina",
+                        "Alanina"
+                    ],
+                    "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }                
+            ]
+        },
         "Ácidos nucleicos":{
             "questions":[
                 {
