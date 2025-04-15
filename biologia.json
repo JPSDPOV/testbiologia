@@ -32,6 +32,38 @@
                 }
             ]
         },
+        "Reinos y Dominios":{
+            "questions":[
+                {
+                    "question": "Algunas enfermedades para el hombre se desarrollan por diversas infecciones, la patología causada por un protista sería:",
+                    "imageURL": "",
+                    "options": [
+                        "Gripe",
+                        "Cóleta",
+                        "Rubeola",
+                        "Encefalopatía espongiforme",
+                        "Paludismo"
+                    ],
+                    "answer": "e",
+                    "explicacion": "a) Gripe: Causada por virus. b) Cólera: Causada por la bacteria Vibrio cholerae. c) Rubéola: Causada por el virus de la rubéola (Togaviridae). d) Encefalopatía espongiforme (como la enfermedad de Creutzfeldt-Jakob): Causada por priones",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Al analizar una muestra de sangre de un hombre adulto, se identificó un parásito responsable de la enfermedad de mal de chagas. El mismo presenta un núcleo, un cinetoplasto y un flagelo que facilita su desplazamiento. Dicho agente patógeno corresponde a un ejemplar del reino:",
+                    "imageURL": "",
+                    "options": [
+                        "Eubacteria",
+                        "Archeobacteria",
+                        "Protista",
+                        "Fungi",
+                        "Animalia"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
         "Virus":{
             "questions":[
                 {
@@ -45,6 +77,20 @@
                         "Replicación y liberación"
                     ],
                     "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los virus que poseen envoltura membranosa, comúnmente infectan células:",
+                    "imageURL": "",
+                    "options": [
+                        "Animales",
+                        "Vegetales",
+                        "Fúngicas",
+                        "Bacterianas",
+                        "Ninguna de las mencionadas"
+                    ],
+                    "answer": "a",
                     "explicacion": "",
                     "imageURLans": ""
                 }
