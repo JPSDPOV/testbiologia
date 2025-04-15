@@ -1,6 +1,6 @@
 {
     "topics": {
-        "Bacterias":{
+        "Arqueobacterias y Bacterias":{
             "questions":[
                 {
                     "question": "¿Cómo se denomina la región celular señalada con el número 6?",
@@ -9,10 +9,42 @@
                         "Centrosoma",
                         "Ribosoma 70S",
                         "Núcleo",
-                        "Material genético",
-                        "N.d.a."
+                        "Nucleoide",
+                        "Protoplasma"
                     ],
                     "answer": "d",
+                    "explicacion": "Se observa el cromosoma bacteriano, enrollado, sin una membrana que lo delimite",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "¿Cuál sería la característica que permite diferenciar una archeobacteria de una eubacteria como la Escherichia coli?",
+                    "imageURL": "",
+                    "options": [
+                        "Presencia de pared celular",
+                        "Carece de organelos",
+                        "Presencia de histonas",
+                        "Carece de ribosomas 80S",
+                        "Presencia de peptidoglicano en la pared celular"
+                    ],
+                    "answer": "e",
+                    "explicacion": "Las arqueas tienen pared de pseudopeptidoglicano, mientras que las eubacterias presentan peptidoglicano",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Virus":{
+            "questions":[
+                {
+                    "question": "De los mecanismos de multiplicación viral de un fago, los mecanismos comunes para el ciclo lítico y lisogénico serían:",
+                    "imageURL": "",
+                    "options": [
+                        "Multiplicación, ensamblado y liberación",
+                        "Fijación y armado solamente",
+                        "Fijación, penetración y multiplicación",
+                        "Penetración, multiplicación y liberación",
+                        "Replicación y liberación"
+                    ],
+                    "answer": "c",
                     "explicacion": "",
                     "imageURLans": ""
                 }
@@ -677,6 +709,75 @@
                     "options": ["Fosfatidilcolina", "Esfingolípidos", "Ceramida", "Cerebrósidos", "Gangliósidos"],
                     "answer": "a",
                     "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Ácidos nucleicos":{
+            "questions":[
+                {
+                    "question": "¿Cuál de las siguientes alternativas no corresponde a una función de los lípidos?",
+                    "imageURL": "",
+                    "options": [
+                        "ADN",
+                        "Cardiolipina",
+                        "Fosfatidilcolina",
+                        "Adenina",
+                        "ARN"
+                    ],
+                    "answer": "d",
+                    "explicacion": "Adenina es una base nitrogenada, no tiene grupo fosfato",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Membrana plasmática":{
+            "questions":[
+                {
+                    "question": "¿Cuál es el concepto que define capilaridad?",
+                    "imageURL": "",
+                    "options": [
+                        "Las moléculas de agua tienden a adherirse a otras moléculas de agua",
+                        "Tendencia del agua a moverse por tubos de diámetro pequeño en contra de la fuerza de gravedad",
+                        "Capacidad de unirse a moléculas diferentes",
+                        "Atracción que ejercen unas molécuas sobre otras en la superficie de un líquido en contra de la fuerza de gravedad",
+                        "Capacidad de desplazar agua a favor del gradiente de concentración"
+                    ],
+                    "answer": "b",
+                    "explicacion": "a) Cohesión; c) Adhesión; d) Tensión superficial; e) Ósmosis",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "De los citados, ¿qué se considera isotónico para las células sanguíneas?",
+                    "imageURL": "",
+                    "options": [
+                        "Suero fisiológico",
+                        "Agua destilada",
+                        "Agua de mar",
+                        "Agua tri destilada",
+                        "Solución sobresaturada de glucosa"
+                    ],
+                    "answer": "a",
+                    "explicacion": "https://drive.google.com/file/d/1FWw_16AtyqfDEv_ZZgYiwcrc4bChDfBc/view?usp=drive_link",
+                    "imageURLans": ""
+                }
+
+            ]
+        },
+        "Genética":{
+            "questions":[
+                {
+                    "question": "De los fenómenos citados abajo, ¿cuál cree usted se podría relacionar con la transferencia de genes entre dos células?",
+                    "imageURL": "",
+                    "options": [
+                        "Recombinación genética",
+                        "Mutación",
+                        "Anabolismo",
+                        "Conjugación",
+                        "Adaptación al medio que le rodea"
+                    ],
+                    "answer": "d",
+                    "explicacion": "La conjugación bacteriana es un mecanismo de transferencia horizontal de genes en el que una bacteria donadora transfiere material genético a una bacteria receptora a través de un pilus sexual",
                     "imageURLans": ""
                 }
             ]
