@@ -170,6 +170,34 @@
                     "imageURLans": "https://drive.google.com/file/d/1Tvn5LcRH0mQigRlg7Elp4FKjHdbij2tz/view?usp=drive_link"
                 },
                 {
+                    "question": "Son ejemplos de monosacáridos",
+                    "imageURL": "",
+                    "options": [
+                        "glucosa y galactosa",
+                        "almidón y celulosa",
+                        "galactosa y glucógeno",
+                        "sacarosa y lactosa",
+                        "sacarosa y almidón"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La sacarosa es un disacárido formado por:",
+                    "imageURL": "",
+                    "options": [
+                        "fructosa + manosa",
+                        "manosa + galactosa",
+                        "galactosa + glucosa",
+                        "glucosa + fructosa",
+                        "galactosa + fructosa"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
                     "question": "Es un isómero de la glucosa no disponible en forma libre (monomérica) encontrándose solo en forma dimérica, muy susceptible a la fermentación:",
                     "imageURL": "",
                     "options": [
@@ -452,6 +480,20 @@
                         "Verdadero"
                     ],
                     "answer": "b",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los oligosacáridos que presentan enlaces O-glicosídicos, se caracterizan por tener:",
+                    "imageURL": "",
+                    "options": [
+                        "un núcleo pentasacárido común",
+                        "tres manosas y dos N-acetilglucosaminas",
+                        "estar ligadas a la asparagina",
+                        "una galactosa unida a la primera N-acetilgalactosamina",
+                        "una galactosa unida a la primera N-acetilglucosamina"
+                    ],
+                    "answer": "d",
                     "explicacion": "",
                     "imageURLans": ""
                 }
@@ -774,7 +816,147 @@
                     "answer": "b",
                     "explicacion": "",
                     "imageURLans": ""
-                }                
+                },
+                {
+                    "question": "La fenilalanina es un aminoácido:",
+                    "imageURL": "",
+                    "options": [
+                        "básico",
+                        "neutro polar",
+                        "ácido",
+                        "hidrofílico",
+                        "neutro no polar"
+                    ],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El triptófano es un aminoácido:",
+                    "imageURL": "",
+                    "options": [
+                        "ácido",
+                        "básico",
+                        "neutro polar",
+                        "neutro no polar",
+                        "hidrofóbico"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La unión peptídica se forma cuando se unen::",
+                    "imageURL": "",
+                    "options": [
+                        "el grupo amino de un aminoácido con el grupo amino de otro aminoácido",
+                        "el grupo carboxilo de un aminoácido con el grupo amino del mismo aminoácido",
+                        "el grupo carboxilo de un aminoácido con el grupo amino de otro aminoácido",
+                        "el grupo carboxilo de un aminoácido con el grupo carboxilo del mismo aminoácido",
+                        "ninguna de las anteriores"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Las proteínas fibrosas se originan a partir de:",
+                    "imageURL": "",
+                    "options": [
+                        "tramos de proteínas hélices α y de hojas plegadas β",
+                        "proteínas de estructura secundaria únicamente α",
+                        "proteínas de estructura secundaria β únicamente",
+                        "Las combinaciones de dos o más polipéptidos",
+                        "ninguna de las anteriores"
+                    ],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Según sus propiedades físicas y químicas, las proteínas se clasifican en:",
+                    "imageURL": "",
+                    "options": [
+                        "lipoproteínas y glicoproteínas",
+                        "hormonales y enzimáticas",
+                        "globulares y fibrosas",
+                        "simples y conjugadas",
+                        "estructurales y contráctiles"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La insulina es una proteína cuya actividad biológica sería:",
+                    "imageURL": "",
+                    "options": [
+                        "de defensa",
+                        "estructural",
+                        "reguladora",
+                        "transportadora",
+                        "de almacenamiento"
+                    ],
+                    "answer": "c",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }, 
+                {
+                    "question": "El colágeno y la elastina se clasifican dentro de las proteínas:",
+                    "imageURL": "",
+                    "options": [
+                        "estructurales",
+                        "de transporte",
+                        "glucoproteínas",
+                        "contráctiles",
+                        "ninguna de las anteriores"
+                    ],
+                    "answer": "a",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El tipo de unión covalente que se establece entre las proteínas se denomina:",
+                    "imageURL": "",
+                    "options": [
+                        "puentes de hidrógeno",
+                        "uniones electrostáticas",
+                        "interacciones hidrofóbicas",
+                        "puentes de disulfuro",
+                        "interacciones de Van der Waals"
+                    ],
+                    "answer": "d",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }, 
+                {
+                    "question": "La hemoglobina mantienen su nivel de organización mediante:",
+                    "imageURL": "",
+                    "options": [
+                        "interacciones iónicas",
+                        "fuerzas de Van der Waals",
+                        "enlaces de disulfuro",
+                        "interacciones hidrofóbicas",
+                        "todas son correctas"
+                    ],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El pH del medio influye en las cargas reales de una molécula proteica porque:",
+                    "imageURL": "",
+                    "options": [
+                        "en medios ácidos las proteínas capturan H+",
+                        "en medios alcalinos las proteínas ceden H+",
+                        "a pH bajo las proteínas se desplazan hacia el cátodo",
+                        "a pH alto las proteínas se desplazan hacia el ánodo",
+                        "todas son correctas"
+                    ],
+                    "answer": "e",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }              
             ]
         },
         "Ácidos nucleicos":{
